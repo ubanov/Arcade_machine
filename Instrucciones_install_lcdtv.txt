@@ -1,0 +1,22 @@
+Instalar Windows XP
+Poner los drivers de todos dispositivos del equipo (copiados en la sinology en xxx)
+crear dos usuarios ivan y user
+
+Copiar mame en e:\mame
+Descomprimir hyperspin en e:\hyperspin
+Instalar bootskin y poner el arranque de mame
+Poner fondo de pantalla
+Instalar 7zip
+instalar VLC
+Instalar 
+Permitir acceso remoto a la maquina
+Screensaver de estrellas y que al volver no muestre pantalla login
+Configurar que el equipo pase a inactividad a la una hora de usarlo y que no solicite password tras estar en actividad (Control Panel Opciones de energia/Solicitar una contraseña cuando el equipo se active tras un tiempo de actividaad)
+Instalar Wincap jukebox
+Configurar autologon del usuario (https://support.microsoft.com/es-es/kb/324737)
+Instalar autohotkey
+Crear script de autohotkey que diga:
+F7::Send {Volume_Down}
+F8::Send {Volume_Up}
+Arrastrar autohotkey al grupo Inicio
+
